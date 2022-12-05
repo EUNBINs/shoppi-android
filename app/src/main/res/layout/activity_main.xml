@@ -7,8 +7,10 @@
     tools:context=".MainActivity">
 
     <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/container_main"
         android:layout_width="0dp"
         android:layout_height="0dp"
+        android:name="com.shoppi.android.HomeFragment"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

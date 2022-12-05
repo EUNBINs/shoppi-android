@@ -14,7 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.Shoppiandroid.Splash">
-        <item name="android:windowBackground">@drawable/background_splash_screen</item>
+    <style name="Theme.Shoppiandroid.Splash" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:background">@drawable/background_splash_screen</item>
     </style>
 </resources>
