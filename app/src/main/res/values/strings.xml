@@ -3,6 +3,10 @@
     <string name="description_product_thumbnail">상품 상세 대표 이미지</string>
     <string name="title_product_detail_image">상품설명</string>
     <string name="description_product_detail_image">상품 상세 이미지</string>
-    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- 아이콘 네임명 -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lable_category_icon">카테고리</string>
+    <string name="lable_home_icon">홈</string>
+    <string name="lable_cart_icon">장바구니</string>
 </resources>

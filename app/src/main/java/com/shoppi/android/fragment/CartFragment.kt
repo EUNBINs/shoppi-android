@@ -1,19 +1,19 @@
-package com.shoppi.android
+package com.shoppi.android.fragment
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
+import com.shoppi.android.R
 
-
-class HomeFragment : Fragment() {
+class CartFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.fragment_home, container, false)   // fragment
+        return inflater.inflate(R.layout.fragment_cart, container, false)
     }
 }

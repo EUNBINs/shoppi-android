@@ -1,0 +1,40 @@
+{
+  "title": {
+    "text" : "코코님, 이런 상품은 어때요?",
+    "icon_url" : "https://user-images.githubusercontent.com/103995985/206596385-78eabbe5-234c-43d2-a610-fc1dda92b4a9.png"
+  },
+  "top_banners" : [
+    {
+      "background_image_url" : "https://user-images.githubusercontent.com/103995985/206596426-9f53d736-1205-43da-887c-ea2bc42cd6ef.png",
+      "badge" : {
+        "label" : "기획전",
+        "background_color" : "#52514d"
+      },
+      "label" : "따스한 겨울\n준비하기",
+      "product_detail" : {
+        "brand_name" : "coco. official",
+        "label" : "캐시미어 100% 터틀넥 스웨터",
+        "discount_rate" : 9,
+        "price" : 102000,
+        "thumbnail_image_url" : "https://user-images.githubusercontent.com/103995985/206596436-d71f6c3a-dca1-445c-ad6b-e425e1f4acdf.png",
+        "product_id" : "FW-coco-sweater-1"
+      }
+    },
+    {
+      "background_image_url" : "https://user-images.githubusercontent.com/103995985/206596430-1836727d-a400-407d-af12-ad985eda93f6.png",
+      "badge" : {
+        "label" : "기획전",
+        "background_color" : "#967a6d"
+      },
+      "label" : "나만의\n홈오피스",
+      "product_detail" : {
+        "brand_name" : "Desk",
+        "label" : "슬림 데스크 800",
+        "discount_rate" : 16,
+        "price" : 160000,
+        "thumbnail_image_url" : "https://user-images.githubusercontent.com/103995985/206596432-d6b43e7b-d6e6-451f-81cf-06d1840d637f.png",
+        "product_id" : "desk-1"
+      }
+    }
+  ]
+}
