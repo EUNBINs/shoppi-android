@@ -1,7 +1,6 @@
-package com.shoppi.android
+package com.shoppi.android.util
 
 import android.content.Context
-import android.util.Log
 
 class AssetLoader {
 

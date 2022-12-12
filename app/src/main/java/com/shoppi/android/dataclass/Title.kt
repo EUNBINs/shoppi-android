@@ -1,4 +1,4 @@
-package com.shoppi.android
+package com.shoppi.android.dataclass
 
 data class Title(
     val text : String,

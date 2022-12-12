@@ -6,17 +6,13 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
-import androidx.navigation.fragment.findNavController
 import com.bumptech.glide.Glide
-import com.shoppi.android.AssetLoader
-import com.shoppi.android.ProductDetailFragment
+import com.shoppi.android.util.AssetLoader
 import com.shoppi.android.R
 import com.shoppi.android.R.*
-import com.shoppi.android.Title
-import org.json.JSONArray
+import com.shoppi.android.dataclass.Title
 import org.json.JSONObject
 
 
